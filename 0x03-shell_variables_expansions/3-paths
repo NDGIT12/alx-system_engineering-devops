@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $SPASH | tr ":" "\n" | wc -l
