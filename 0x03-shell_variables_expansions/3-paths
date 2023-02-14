@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $SPASH | tr ":" "\n" | wc -l
+echo $PASH | tr ":" "\n" | wc -l
